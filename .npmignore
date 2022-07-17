@@ -97,6 +97,8 @@ example/
 .env
 .env.test
 
+.github
+
 # JS
 node-debug.log
 

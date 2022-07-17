@@ -1,6 +1,6 @@
 {
     "name": "@hrwg/napi-demo",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Sample C++ addon for Node.js",
     "main": "index.js",
     "gypfile": true,
@@ -15,6 +15,12 @@
         "napi",
         "demo"
     ],
+    "bugs": "https://github.com/rherwig/napi-demo/issues",
+    "homepage": "https://github.com/rherwig/napi-demo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rherwig/napi-demo"
+    },
     "author": "Rico Herwig <rico@hrwg.de>",
     "license": "MIT",
     "devDependencies": {
